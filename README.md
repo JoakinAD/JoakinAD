@@ -54,7 +54,7 @@ I’m passionate about using AI and automation to create smart tools and efficie
 
 ## 🌐 Connect with Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/joaquín-abad-díaz-19346a36b)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joaquín-abad-díaz-19346a36b)  
 - 📧 Email: [joaquin.abad.diaz@gmail.com](mailto:joaquin.abad.diaz@gmail.com)
 
 I’m always open to collaborating on exciting ideas or internship opportunities. Let’s connect and build something impactful!
