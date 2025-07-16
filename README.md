@@ -15,7 +15,7 @@ I’m passionate about using AI and automation to create smart tools and efficie
 ## 🧠 Interests & Focus
 
 - 🧪 **Data Science**: Exploratory analysis, predictive modeling, data pipelines  
-- 🤖 **Deep Learning**: Transformers, LLMs (e.g., fine-tuning, inference, deployment)  
+- 🤖 **Deep Learning**: Transformers, LLMs (e.g., fine-tuning, deployment)  
 - ⚙️ **Automation**: Scripting, bots, data workflows  
 - ☁️ **DevOps**: CI/CD, Docker, cloud infrastructure, MLOps pipelines  
 
